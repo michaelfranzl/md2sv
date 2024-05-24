@@ -1,0 +1,21 @@
+{
+  "name": "md2sv-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.mjs"
+  },
+  "author": "Michael Franzl",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "md2sv": "file:..",
+    "rehype-highlight": "^7.0.0",
+    "rehype-mathjax": "^6.0.0",
+    "remark-gfm": "^4.0.0",
+    "remark-math": "^6.0.0",
+    "retext": "^9.0.0",
+    "retext-smartypants": "^6.1.0",
+    "unist-util-visit": "^5.0.0"
+  }
+}
