@@ -57,7 +57,7 @@ For illustration, see the [unit tests](test) and the [example](example), in part
 
 The following were intentionally not implemented; however, since *md2sv* is easy to extend,
 **the following functionality can easily be added by yourself if and wherever you need it** using
-`rehypePlugins{Pre,Post}` and `remarkPlugins{Pre,Post}` (see *Options* section).
+`rehypePlugins{Pre,Post}` and `remarkPlugins{Pre,Post}` (see [API](#api)).
 
 * Syntax highlighting
 * Smart typography
